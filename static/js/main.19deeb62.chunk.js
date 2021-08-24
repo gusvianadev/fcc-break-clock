@@ -1,2 +1,0 @@
-(this["webpackJsonpfcc-break-clock"]=this["webpackJsonpfcc-break-clock"]||[]).push([[0],{9:function(c,e,t){"use strict";t.r(e);var n=t(1),o=t.n(n),r=t(3),s=t.n(r),i=t(0),p=function(){return console.log("App!"),Object(i.jsx)("div",{children:"App!"})};s.a.render(Object(i.jsx)(o.a.StrictMode,{children:Object(i.jsx)(p,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.19deeb62.chunk.js.map
